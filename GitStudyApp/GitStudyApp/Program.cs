@@ -10,7 +10,7 @@ namespace GitStudyApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello git!");
+            Console.WriteLine("hello branch1!");
         }
     }
 }
